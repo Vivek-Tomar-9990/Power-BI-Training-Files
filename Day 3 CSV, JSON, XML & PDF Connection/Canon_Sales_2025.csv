@@ -1,0 +1,301 @@
+Date,Month,Quarter,Year,Region,Salesperson,Dealer,Channel,Product,Category,Quantity,Unit_Price,Target,Achievement,Achievement_Pct
+2025-11-13,November,Q4,2025,East,Deepa Nair,PrintWorld Chennai,Direct,Laser Jet 3000,Printers,25,18000,451200.0,506600.0,112.28
+2025-03-07,March,Q1,2025,North,Sunita Rao,PrintWorld Chennai,Online,Multifunction A4,Multifunction,30,35000,1069100.0,1183900.0,110.74
+2025-06-16,June,Q2,2025,East,Neha Singh,Canon Plus Bangalore,Dealer,Scanner Elite,Scanners,48,22000,947300.0,958900.0,101.22
+2025-09-09,September,Q3,2025,North,Kiran Joshi,Canon Plus Bangalore,Dealer,Printer Pro X1,Printers,41,12500,475200.0,477800.0,100.55
+2025-03-11,March,Q1,2025,Central,Suresh Babu,Office Solutions Mumbai,Distributor,Scanner Elite,Scanners,43,22000,843100.0,1076500.0,127.68
+2025-04-19,April,Q2,2025,East,Deepa Nair,PrintWorld Chennai,Dealer,Laser Jet 3000,Printers,28,18000,575100.0,627900.0,109.18
+2025-04-21,April,Q2,2025,South,Vijay Kumar,PrintWorld Chennai,Dealer,Laser Jet 3000,Printers,38,18000,692500.0,807200.0,116.56
+2025-07-25,July,Q3,2025,East,Priya Patel,PrintWorld Chennai,Direct,Laser Jet 3000,Printers,42,18000,854200.0,945200.0,110.65
+2025-03-11,March,Q1,2025,West,Arjun Mehta,Canon Plus Bangalore,Distributor,Laser Jet 3000,Printers,47,18000,726600.0,754000.0,103.77
+2025-12-27,December,Q4,2025,North,Rahul Gupta,Office Solutions Mumbai,Direct,Wide Format Z9,Wide Format,48,85000,3803100.0,4763300.0,125.25
+2025-10-20,October,Q4,2025,South,Sunita Rao,TechMart Delhi,Online,Inkjet Office 500,Printers,39,8500,338200.0,278000.0,82.2
+2025-02-23,February,Q1,2025,East,Rahul Gupta,DigiHub Hyderabad,Distributor,Scanner Elite,Scanners,9,22000,198100.0,210400.0,106.21
+2025-08-05,August,Q3,2025,North,Vijay Kumar,DigiHub Hyderabad,Dealer,Laser Jet 3000,Printers,13,18000,214800.0,221200.0,102.98
+2025-12-22,December,Q4,2025,West,Suresh Babu,DigiHub Hyderabad,Online,Laser Jet 3000,Printers,49,18000,803800.0,711100.0,88.47
+2025-08-08,August,Q3,2025,West,Neha Singh,DigiHub Hyderabad,Direct,Scanner Elite,Scanners,26,22000,619400.0,609000.0,98.32
+2025-09-04,September,Q3,2025,South,Kiran Joshi,PrintWorld Chennai,Distributor,Scanner Elite,Scanners,30,22000,724700.0,478800.0,66.07
+2025-12-02,December,Q4,2025,North,Sunita Rao,Canon Plus Bangalore,Distributor,Multifunction A4,Multifunction,25,35000,879200.0,943600.0,107.32
+2025-07-10,July,Q3,2025,North,Kiran Joshi,Office Solutions Mumbai,Distributor,Inkjet Office 500,Printers,30,8500,229500.0,223500.0,97.39
+2025-11-15,November,Q4,2025,Central,Kiran Joshi,Office Solutions Mumbai,Distributor,Printer Pro X1,Printers,47,12500,587600.0,474600.0,80.77
+2025-07-11,July,Q3,2025,South,Deepa Nair,TechMart Delhi,Online,Scanner Elite,Scanners,2,22000,39800.0,46400.0,116.58
+2025-06-23,June,Q2,2025,North,Priya Patel,TechMart Delhi,Distributor,Wide Format Z9,Wide Format,46,85000,4257800.0,4422300.0,103.86
+2025-11-12,November,Q4,2025,Central,Suresh Babu,Office Solutions Mumbai,Distributor,Printer Pro X1,Printers,34,12500,451400.0,482900.0,106.98
+2025-09-13,September,Q3,2025,South,Rahul Gupta,Office Solutions Mumbai,Dealer,Printer Pro X1,Printers,50,12500,563300.0,563200.0,99.98
+2025-12-02,December,Q4,2025,West,Vijay Kumar,Office Solutions Mumbai,Direct,Scanner Elite,Scanners,20,22000,414900.0,510900.0,123.14
+2025-03-07,March,Q1,2025,West,Deepa Nair,PrintWorld Chennai,Direct,Printer Pro X1,Printers,40,12500,539800.0,353700.0,65.52
+2025-10-16,October,Q4,2025,West,Deepa Nair,TechMart Delhi,Direct,Laser Jet 3000,Printers,14,18000,258700.0,248300.0,95.98
+2025-04-18,April,Q2,2025,South,Amit Sharma,Office Solutions Mumbai,Dealer,Inkjet Office 500,Printers,40,8500,353100.0,405300.0,114.78
+2025-01-21,January,Q1,2025,Central,Suresh Babu,Canon Plus Bangalore,Online,Inkjet Office 500,Printers,3,8500,22800.0,18300.0,80.26
+2025-02-02,February,Q1,2025,East,Suresh Babu,PrintWorld Chennai,Dealer,Printer Pro X1,Printers,27,12500,387500.0,268900.0,69.39
+2025-08-24,August,Q3,2025,East,Neha Singh,Canon Plus Bangalore,Distributor,Multifunction A4,Multifunction,24,35000,948700.0,634900.0,66.92
+2025-02-25,February,Q1,2025,North,Vijay Kumar,Canon Plus Bangalore,Distributor,Scanner Elite,Scanners,36,22000,688600.0,778100.0,113.0
+2025-09-07,September,Q3,2025,Central,Priya Patel,DigiHub Hyderabad,Online,Wide Format Z9,Wide Format,14,85000,1230000.0,911000.0,74.07
+2025-07-20,July,Q3,2025,East,Rahul Gupta,PrintWorld Chennai,Distributor,Inkjet Office 500,Printers,17,8500,145600.0,187400.0,128.71
+2025-09-24,September,Q3,2025,Central,Sunita Rao,Canon Plus Bangalore,Dealer,Wide Format Z9,Wide Format,32,85000,2713900.0,2197600.0,80.98
+2025-01-04,January,Q1,2025,South,Suresh Babu,DigiHub Hyderabad,Distributor,Printer Pro X1,Printers,30,12500,389100.0,289000.0,74.27
+2025-01-11,January,Q1,2025,South,Vijay Kumar,Canon Plus Bangalore,Direct,Inkjet Office 500,Printers,36,8500,334100.0,253200.0,75.79
+2025-05-10,May,Q2,2025,East,Neha Singh,DigiHub Hyderabad,Direct,Multifunction A4,Multifunction,36,35000,1193400.0,886600.0,74.29
+2025-03-07,March,Q1,2025,West,Amit Sharma,Office Solutions Mumbai,Distributor,Inkjet Office 500,Printers,22,8500,210700.0,184700.0,87.66
+2025-03-21,March,Q1,2025,West,Amit Sharma,PrintWorld Chennai,Online,Scanner Elite,Scanners,35,22000,861500.0,752700.0,87.37
+2025-10-24,October,Q4,2025,Central,Neha Singh,Canon Plus Bangalore,Direct,Wide Format Z9,Wide Format,21,85000,1814500.0,1269500.0,69.96
+2025-03-09,March,Q1,2025,South,Suresh Babu,PrintWorld Chennai,Distributor,Printer Pro X1,Printers,22,12500,314900.0,295900.0,93.97
+2025-03-20,March,Q1,2025,North,Vijay Kumar,DigiHub Hyderabad,Direct,Printer Pro X1,Printers,49,12500,577300.0,744000.0,128.88
+2025-08-08,August,Q3,2025,Central,Vijay Kumar,Office Solutions Mumbai,Direct,Inkjet Office 500,Printers,29,8500,270900.0,217300.0,80.21
+2025-06-26,June,Q2,2025,Central,Amit Sharma,DigiHub Hyderabad,Dealer,Printer Pro X1,Printers,50,12500,569100.0,472200.0,82.97
+2025-04-11,April,Q2,2025,East,Rahul Gupta,TechMart Delhi,Dealer,Scanner Elite,Scanners,47,22000,1150000.0,916300.0,79.68
+2025-04-24,April,Q2,2025,North,Amit Sharma,Canon Plus Bangalore,Direct,Printer Pro X1,Printers,30,12500,362400.0,457100.0,126.13
+2025-11-28,November,Q4,2025,North,Kiran Joshi,Canon Plus Bangalore,Direct,Multifunction A4,Multifunction,6,35000,199500.0,259000.0,129.82
+2025-10-25,October,Q4,2025,South,Vijay Kumar,Canon Plus Bangalore,Online,Inkjet Office 500,Printers,41,8500,389500.0,311000.0,79.85
+2025-08-22,August,Q3,2025,North,Suresh Babu,PrintWorld Chennai,Direct,Printer Pro X1,Printers,18,12500,201300.0,194400.0,96.57
+2025-04-18,April,Q2,2025,East,Suresh Babu,Office Solutions Mumbai,Dealer,Inkjet Office 500,Printers,36,8500,289300.0,240200.0,83.03
+2025-02-10,February,Q1,2025,North,Deepa Nair,TechMart Delhi,Direct,Multifunction A4,Multifunction,22,35000,779400.0,562400.0,72.16
+2025-07-02,July,Q3,2025,Central,Deepa Nair,PrintWorld Chennai,Online,Printer Pro X1,Printers,28,12500,338700.0,393000.0,116.03
+2025-05-11,May,Q2,2025,North,Deepa Nair,PrintWorld Chennai,Dealer,Laser Jet 3000,Printers,46,18000,892200.0,981700.0,110.03
+2025-02-27,February,Q1,2025,West,Deepa Nair,Office Solutions Mumbai,Dealer,Wide Format Z9,Wide Format,30,85000,2241900.0,2259900.0,100.8
+2025-03-28,March,Q1,2025,East,Neha Singh,DigiHub Hyderabad,Distributor,Multifunction A4,Multifunction,17,35000,668700.0,556500.0,83.22
+2025-01-03,January,Q1,2025,South,Vijay Kumar,Canon Plus Bangalore,Dealer,Scanner Elite,Scanners,8,22000,168200.0,171900.0,102.2
+2025-09-04,September,Q3,2025,North,Vijay Kumar,PrintWorld Chennai,Distributor,Scanner Elite,Scanners,46,22000,1102100.0,906300.0,82.23
+2025-07-19,July,Q3,2025,West,Arjun Mehta,TechMart Delhi,Online,Scanner Elite,Scanners,16,22000,364800.0,362100.0,99.26
+2025-04-27,April,Q2,2025,Central,Neha Singh,PrintWorld Chennai,Dealer,Wide Format Z9,Wide Format,38,85000,3163300.0,4160600.0,131.53
+2025-03-22,March,Q1,2025,West,Priya Patel,PrintWorld Chennai,Distributor,Wide Format Z9,Wide Format,5,85000,455500.0,479000.0,105.16
+2025-06-18,June,Q2,2025,North,Suresh Babu,TechMart Delhi,Distributor,Printer Pro X1,Printers,29,12500,327300.0,461700.0,141.06
+2025-06-16,June,Q2,2025,South,Suresh Babu,TechMart Delhi,Dealer,Wide Format Z9,Wide Format,43,85000,3174200.0,3035700.0,95.64
+2025-11-05,November,Q4,2025,West,Sunita Rao,Office Solutions Mumbai,Online,Scanner Elite,Scanners,35,22000,721800.0,823400.0,114.08
+2025-05-19,May,Q2,2025,East,Priya Patel,PrintWorld Chennai,Direct,Wide Format Z9,Wide Format,20,85000,1913400.0,2145400.0,112.13
+2025-10-17,October,Q4,2025,Central,Amit Sharma,TechMart Delhi,Online,Scanner Elite,Scanners,9,22000,218900.0,146000.0,66.7
+2025-02-28,February,Q1,2025,West,Neha Singh,DigiHub Hyderabad,Distributor,Inkjet Office 500,Printers,2,8500,15600.0,19100.0,122.44
+2025-07-14,July,Q3,2025,South,Kiran Joshi,DigiHub Hyderabad,Online,Multifunction A4,Multifunction,14,35000,513900.0,482600.0,93.91
+2025-07-05,July,Q3,2025,North,Rahul Gupta,DigiHub Hyderabad,Distributor,Inkjet Office 500,Printers,43,8500,324400.0,258400.0,79.65
+2025-03-03,March,Q1,2025,Central,Arjun Mehta,PrintWorld Chennai,Dealer,Laser Jet 3000,Printers,42,18000,825400.0,919400.0,111.39
+2025-08-17,August,Q3,2025,South,Rahul Gupta,DigiHub Hyderabad,Direct,Scanner Elite,Scanners,36,22000,868000.0,737200.0,84.93
+2025-10-16,October,Q4,2025,Central,Suresh Babu,Canon Plus Bangalore,Direct,Wide Format Z9,Wide Format,16,85000,1446500.0,1171700.0,81.0
+2025-01-19,January,Q1,2025,North,Rahul Gupta,PrintWorld Chennai,Online,Scanner Elite,Scanners,46,22000,972100.0,1060700.0,109.11
+2025-08-17,August,Q3,2025,West,Priya Patel,PrintWorld Chennai,Online,Printer Pro X1,Printers,34,12500,474700.0,320100.0,67.43
+2025-10-02,October,Q4,2025,Central,Deepa Nair,PrintWorld Chennai,Online,Inkjet Office 500,Printers,35,8500,322400.0,291900.0,90.54
+2025-07-12,July,Q3,2025,Central,Vijay Kumar,PrintWorld Chennai,Online,Inkjet Office 500,Printers,19,8500,145400.0,180400.0,124.07
+2025-01-21,January,Q1,2025,East,Suresh Babu,TechMart Delhi,Online,Scanner Elite,Scanners,38,22000,753000.0,611100.0,81.16
+2025-08-03,August,Q3,2025,East,Rahul Gupta,PrintWorld Chennai,Online,Laser Jet 3000,Printers,33,18000,518600.0,695100.0,134.03
+2025-05-28,May,Q2,2025,Central,Rahul Gupta,DigiHub Hyderabad,Online,Inkjet Office 500,Printers,1,8500,9100.0,9000.0,98.9
+2025-03-09,March,Q1,2025,North,Neha Singh,TechMart Delhi,Dealer,Wide Format Z9,Wide Format,16,85000,1353800.0,1604300.0,118.5
+2025-10-27,October,Q4,2025,West,Sunita Rao,DigiHub Hyderabad,Dealer,Laser Jet 3000,Printers,32,18000,619700.0,545900.0,88.09
+2025-04-19,April,Q2,2025,North,Amit Sharma,Office Solutions Mumbai,Distributor,Wide Format Z9,Wide Format,23,85000,1693600.0,1678600.0,99.11
+2025-07-16,July,Q3,2025,Central,Sunita Rao,DigiHub Hyderabad,Distributor,Inkjet Office 500,Printers,31,8500,283000.0,303400.0,107.21
+2025-08-09,August,Q3,2025,West,Arjun Mehta,Canon Plus Bangalore,Direct,Laser Jet 3000,Printers,34,18000,680000.0,432800.0,63.65
+2025-02-18,February,Q1,2025,East,Neha Singh,Canon Plus Bangalore,Online,Wide Format Z9,Wide Format,23,85000,2222600.0,1875000.0,84.36
+2025-02-09,February,Q1,2025,South,Suresh Babu,Office Solutions Mumbai,Online,Wide Format Z9,Wide Format,38,85000,3124500.0,3759400.0,120.32
+2025-11-23,November,Q4,2025,North,Amit Sharma,DigiHub Hyderabad,Direct,Laser Jet 3000,Printers,21,18000,383400.0,417200.0,108.82
+2025-09-04,September,Q3,2025,East,Sunita Rao,TechMart Delhi,Direct,Wide Format Z9,Wide Format,29,85000,2355200.0,2798100.0,118.81
+2025-10-03,October,Q4,2025,Central,Priya Patel,TechMart Delhi,Direct,Printer Pro X1,Printers,39,12500,510400.0,585600.0,114.73
+2025-10-05,October,Q4,2025,South,Priya Patel,Office Solutions Mumbai,Online,Scanner Elite,Scanners,43,22000,1020900.0,1030000.0,100.89
+2025-05-15,May,Q2,2025,East,Arjun Mehta,Canon Plus Bangalore,Online,Wide Format Z9,Wide Format,5,85000,442700.0,532800.0,120.35
+2025-03-25,March,Q1,2025,East,Amit Sharma,Canon Plus Bangalore,Online,Printer Pro X1,Printers,18,12500,243700.0,209200.0,85.84
+2025-03-15,March,Q1,2025,West,Rahul Gupta,DigiHub Hyderabad,Direct,Printer Pro X1,Printers,32,12500,457500.0,328200.0,71.74
+2025-03-18,March,Q1,2025,West,Vijay Kumar,TechMart Delhi,Direct,Scanner Elite,Scanners,14,22000,318500.0,235200.0,73.85
+2025-02-03,February,Q1,2025,West,Rahul Gupta,TechMart Delhi,Direct,Multifunction A4,Multifunction,47,35000,1521900.0,1591600.0,104.58
+2025-11-13,November,Q4,2025,Central,Amit Sharma,PrintWorld Chennai,Distributor,Inkjet Office 500,Printers,10,8500,90100.0,105600.0,117.2
+2025-08-14,August,Q3,2025,Central,Sunita Rao,TechMart Delhi,Distributor,Scanner Elite,Scanners,47,22000,1121100.0,1211100.0,108.03
+2025-12-27,December,Q4,2025,East,Neha Singh,Canon Plus Bangalore,Distributor,Scanner Elite,Scanners,8,22000,179600.0,221900.0,123.55
+2025-01-21,January,Q1,2025,East,Priya Patel,DigiHub Hyderabad,Online,Wide Format Z9,Wide Format,6,85000,489400.0,618100.0,126.3
+2025-11-07,November,Q4,2025,South,Vijay Kumar,DigiHub Hyderabad,Direct,Laser Jet 3000,Printers,36,18000,558400.0,603000.0,107.99
+2025-11-23,November,Q4,2025,South,Rahul Gupta,TechMart Delhi,Dealer,Inkjet Office 500,Printers,32,8500,238100.0,293700.0,123.35
+2025-01-24,January,Q1,2025,Central,Vijay Kumar,DigiHub Hyderabad,Distributor,Multifunction A4,Multifunction,16,35000,558200.0,413200.0,74.02
+2025-01-02,January,Q1,2025,West,Priya Patel,Office Solutions Mumbai,Distributor,Inkjet Office 500,Printers,4,8500,32300.0,38500.0,119.2
+2025-11-28,November,Q4,2025,North,Amit Sharma,Office Solutions Mumbai,Distributor,Multifunction A4,Multifunction,10,35000,375300.0,293900.0,78.31
+2025-11-01,November,Q4,2025,South,Amit Sharma,Office Solutions Mumbai,Direct,Scanner Elite,Scanners,40,22000,760100.0,986300.0,129.76
+2025-05-27,May,Q2,2025,North,Priya Patel,TechMart Delhi,Distributor,Printer Pro X1,Printers,30,12500,387500.0,450500.0,116.26
+2025-10-26,October,Q4,2025,East,Arjun Mehta,Canon Plus Bangalore,Direct,Multifunction A4,Multifunction,15,35000,456200.0,431300.0,94.54
+2025-11-19,November,Q4,2025,South,Amit Sharma,PrintWorld Chennai,Dealer,Multifunction A4,Multifunction,9,35000,298100.0,402800.0,135.12
+2025-06-03,June,Q2,2025,East,Kiran Joshi,Office Solutions Mumbai,Distributor,Printer Pro X1,Printers,18,12500,200800.0,213500.0,106.32
+2025-04-19,April,Q2,2025,Central,Arjun Mehta,Office Solutions Mumbai,Direct,Printer Pro X1,Printers,9,12500,99000.0,135900.0,137.27
+2025-08-03,August,Q3,2025,Central,Vijay Kumar,DigiHub Hyderabad,Distributor,Printer Pro X1,Printers,1,12500,11300.0,9400.0,83.19
+2025-12-05,December,Q4,2025,West,Sunita Rao,Office Solutions Mumbai,Direct,Laser Jet 3000,Printers,10,18000,187600.0,182500.0,97.28
+2025-10-06,October,Q4,2025,East,Neha Singh,DigiHub Hyderabad,Direct,Wide Format Z9,Wide Format,32,85000,2811400.0,2047700.0,72.84
+2025-09-08,September,Q3,2025,Central,Neha Singh,PrintWorld Chennai,Dealer,Laser Jet 3000,Printers,8,18000,165000.0,185200.0,112.24
+2025-08-25,August,Q3,2025,North,Rahul Gupta,DigiHub Hyderabad,Distributor,Wide Format Z9,Wide Format,43,85000,3334900.0,2674900.0,80.21
+2025-03-06,March,Q1,2025,South,Arjun Mehta,Canon Plus Bangalore,Online,Wide Format Z9,Wide Format,3,85000,220900.0,234200.0,106.02
+2025-10-26,October,Q4,2025,Central,Rahul Gupta,Office Solutions Mumbai,Direct,Scanner Elite,Scanners,3,22000,58200.0,48300.0,82.99
+2025-08-17,August,Q3,2025,Central,Suresh Babu,Canon Plus Bangalore,Distributor,Printer Pro X1,Printers,5,12500,69900.0,70800.0,101.29
+2025-04-24,April,Q2,2025,South,Priya Patel,Office Solutions Mumbai,Distributor,Wide Format Z9,Wide Format,21,85000,1640400.0,1367500.0,83.36
+2025-04-13,April,Q2,2025,West,Rahul Gupta,Office Solutions Mumbai,Distributor,Laser Jet 3000,Printers,5,18000,89200.0,89200.0,100.0
+2025-03-13,March,Q1,2025,East,Vijay Kumar,Office Solutions Mumbai,Online,Inkjet Office 500,Printers,9,8500,75500.0,62500.0,82.78
+2025-03-02,March,Q1,2025,West,Deepa Nair,DigiHub Hyderabad,Dealer,Wide Format Z9,Wide Format,37,85000,2729500.0,2459100.0,90.09
+2025-06-08,June,Q2,2025,Central,Rahul Gupta,PrintWorld Chennai,Dealer,Inkjet Office 500,Printers,39,8500,297400.0,390100.0,131.17
+2025-02-14,February,Q1,2025,West,Deepa Nair,Canon Plus Bangalore,Direct,Multifunction A4,Multifunction,32,35000,1241700.0,929400.0,74.85
+2025-12-14,December,Q4,2025,South,Suresh Babu,Office Solutions Mumbai,Direct,Wide Format Z9,Wide Format,16,85000,1257100.0,1306300.0,103.91
+2025-07-02,July,Q3,2025,West,Kiran Joshi,DigiHub Hyderabad,Distributor,Printer Pro X1,Printers,31,12500,414600.0,388500.0,93.7
+2025-12-27,December,Q4,2025,North,Arjun Mehta,Office Solutions Mumbai,Dealer,Printer Pro X1,Printers,29,12500,362000.0,271800.0,75.08
+2025-06-10,June,Q2,2025,East,Rahul Gupta,DigiHub Hyderabad,Direct,Laser Jet 3000,Printers,42,18000,869200.0,536400.0,61.71
+2025-08-15,August,Q3,2025,East,Deepa Nair,TechMart Delhi,Direct,Laser Jet 3000,Printers,46,18000,804500.0,972000.0,120.82
+2025-07-23,July,Q3,2025,East,Suresh Babu,PrintWorld Chennai,Dealer,Inkjet Office 500,Printers,34,8500,248500.0,276200.0,111.15
+2025-11-03,November,Q4,2025,East,Amit Sharma,TechMart Delhi,Distributor,Multifunction A4,Multifunction,22,35000,824500.0,564300.0,68.44
+2025-06-15,June,Q2,2025,Central,Priya Patel,PrintWorld Chennai,Dealer,Multifunction A4,Multifunction,3,35000,100800.0,84500.0,83.83
+2025-03-11,March,Q1,2025,Central,Sunita Rao,Office Solutions Mumbai,Online,Laser Jet 3000,Printers,35,18000,557000.0,621900.0,111.65
+2025-06-09,June,Q2,2025,East,Neha Singh,DigiHub Hyderabad,Distributor,Multifunction A4,Multifunction,44,35000,1504400.0,1128300.0,75.0
+2025-09-17,September,Q3,2025,Central,Vijay Kumar,DigiHub Hyderabad,Online,Printer Pro X1,Printers,31,12500,411900.0,429000.0,104.15
+2025-11-23,November,Q4,2025,North,Arjun Mehta,Office Solutions Mumbai,Online,Printer Pro X1,Printers,13,12500,181600.0,158400.0,87.22
+2025-02-04,February,Q1,2025,South,Sunita Rao,PrintWorld Chennai,Direct,Laser Jet 3000,Printers,18,18000,286300.0,255600.0,89.28
+2025-05-14,May,Q2,2025,West,Deepa Nair,TechMart Delhi,Online,Wide Format Z9,Wide Format,35,85000,3360300.0,2928400.0,87.15
+2025-04-03,April,Q2,2025,East,Arjun Mehta,PrintWorld Chennai,Online,Printer Pro X1,Printers,15,12500,206300.0,189700.0,91.95
+2025-11-21,November,Q4,2025,Central,Deepa Nair,DigiHub Hyderabad,Online,Inkjet Office 500,Printers,32,8500,279600.0,304100.0,108.76
+2025-10-05,October,Q4,2025,East,Vijay Kumar,TechMart Delhi,Dealer,Inkjet Office 500,Printers,11,8500,101600.0,78200.0,76.97
+2025-06-10,June,Q2,2025,Central,Vijay Kumar,Office Solutions Mumbai,Dealer,Scanner Elite,Scanners,11,22000,250600.0,192700.0,76.9
+2025-12-23,December,Q4,2025,East,Suresh Babu,Office Solutions Mumbai,Distributor,Wide Format Z9,Wide Format,10,85000,763600.0,654600.0,85.73
+2025-05-12,May,Q2,2025,East,Neha Singh,Office Solutions Mumbai,Online,Laser Jet 3000,Printers,14,18000,256700.0,181600.0,70.74
+2025-08-18,August,Q3,2025,West,Deepa Nair,Office Solutions Mumbai,Distributor,Laser Jet 3000,Printers,35,18000,592500.0,788900.0,133.15
+2025-06-05,June,Q2,2025,East,Deepa Nair,Canon Plus Bangalore,Dealer,Printer Pro X1,Printers,48,12500,608300.0,602700.0,99.08
+2025-10-24,October,Q4,2025,North,Rahul Gupta,PrintWorld Chennai,Direct,Scanner Elite,Scanners,22,22000,511500.0,551300.0,107.78
+2025-05-01,May,Q2,2025,North,Neha Singh,TechMart Delhi,Dealer,Scanner Elite,Scanners,40,22000,970000.0,851500.0,87.78
+2025-10-17,October,Q4,2025,Central,Deepa Nair,TechMart Delhi,Distributor,Laser Jet 3000,Printers,50,18000,840000.0,642200.0,76.45
+2025-04-16,April,Q2,2025,East,Arjun Mehta,Office Solutions Mumbai,Distributor,Inkjet Office 500,Printers,39,8500,341900.0,419700.0,122.76
+2025-06-13,June,Q2,2025,West,Kiran Joshi,TechMart Delhi,Dealer,Inkjet Office 500,Printers,1,8500,8000.0,7700.0,96.25
+2025-12-15,December,Q4,2025,West,Arjun Mehta,Office Solutions Mumbai,Direct,Wide Format Z9,Wide Format,27,85000,2504100.0,2003900.0,80.02
+2025-03-07,March,Q1,2025,East,Priya Patel,PrintWorld Chennai,Distributor,Inkjet Office 500,Printers,31,8500,302100.0,267500.0,88.55
+2025-02-01,February,Q1,2025,Central,Deepa Nair,PrintWorld Chennai,Dealer,Scanner Elite,Scanners,41,22000,1014100.0,855700.0,84.38
+2025-04-06,April,Q2,2025,East,Suresh Babu,Canon Plus Bangalore,Distributor,Scanner Elite,Scanners,19,22000,424800.0,303200.0,71.37
+2025-09-24,September,Q3,2025,East,Vijay Kumar,DigiHub Hyderabad,Direct,Scanner Elite,Scanners,15,22000,283200.0,231500.0,81.74
+2025-11-22,November,Q4,2025,South,Amit Sharma,TechMart Delhi,Online,Inkjet Office 500,Printers,27,8500,207400.0,285500.0,137.66
+2025-08-03,August,Q3,2025,West,Vijay Kumar,DigiHub Hyderabad,Direct,Multifunction A4,Multifunction,48,35000,1610300.0,1660300.0,103.11
+2025-06-17,June,Q2,2025,Central,Amit Sharma,Office Solutions Mumbai,Online,Wide Format Z9,Wide Format,37,85000,2689800.0,2691200.0,100.05
+2025-08-23,August,Q3,2025,West,Neha Singh,TechMart Delhi,Online,Laser Jet 3000,Printers,23,18000,372200.0,357500.0,96.05
+2025-05-17,May,Q2,2025,South,Priya Patel,PrintWorld Chennai,Dealer,Wide Format Z9,Wide Format,5,85000,426800.0,492900.0,115.49
+2025-09-11,September,Q3,2025,East,Priya Patel,PrintWorld Chennai,Online,Inkjet Office 500,Printers,44,8500,407600.0,322700.0,79.17
+2025-03-01,March,Q1,2025,West,Neha Singh,Office Solutions Mumbai,Direct,Laser Jet 3000,Printers,34,18000,571900.0,714400.0,124.92
+2025-04-05,April,Q2,2025,Central,Suresh Babu,PrintWorld Chennai,Direct,Multifunction A4,Multifunction,15,35000,577200.0,618000.0,107.07
+2025-07-15,July,Q3,2025,West,Neha Singh,Canon Plus Bangalore,Online,Printer Pro X1,Printers,8,12500,109600.0,125400.0,114.42
+2025-03-27,March,Q1,2025,South,Vijay Kumar,TechMart Delhi,Direct,Scanner Elite,Scanners,39,22000,864000.0,1100000.0,127.31
+2025-04-05,April,Q2,2025,South,Rahul Gupta,TechMart Delhi,Distributor,Wide Format Z9,Wide Format,10,85000,898000.0,751800.0,83.72
+2025-12-25,December,Q4,2025,West,Amit Sharma,Office Solutions Mumbai,Direct,Printer Pro X1,Printers,5,12500,53500.0,61900.0,115.7
+2025-01-26,January,Q1,2025,East,Amit Sharma,TechMart Delhi,Online,Wide Format Z9,Wide Format,33,85000,2883400.0,2753000.0,95.48
+2025-11-01,November,Q4,2025,South,Rahul Gupta,Canon Plus Bangalore,Direct,Printer Pro X1,Printers,8,12500,112600.0,82300.0,73.09
+2025-02-05,February,Q1,2025,South,Kiran Joshi,PrintWorld Chennai,Dealer,Wide Format Z9,Wide Format,18,85000,1736000.0,1390300.0,80.09
+2025-09-19,September,Q3,2025,Central,Sunita Rao,Office Solutions Mumbai,Online,Printer Pro X1,Printers,7,12500,95900.0,101300.0,105.63
+2025-03-25,March,Q1,2025,South,Kiran Joshi,DigiHub Hyderabad,Online,Multifunction A4,Multifunction,1,35000,40000.0,26600.0,66.5
+2025-12-19,December,Q4,2025,East,Arjun Mehta,DigiHub Hyderabad,Dealer,Laser Jet 3000,Printers,29,18000,549200.0,399000.0,72.65
+2025-09-08,September,Q3,2025,West,Priya Patel,PrintWorld Chennai,Dealer,Scanner Elite,Scanners,8,22000,189800.0,156400.0,82.4
+2025-08-25,August,Q3,2025,North,Neha Singh,DigiHub Hyderabad,Direct,Inkjet Office 500,Printers,46,8500,366200.0,443100.0,121.0
+2025-07-10,July,Q3,2025,West,Sunita Rao,PrintWorld Chennai,Distributor,Scanner Elite,Scanners,39,22000,918800.0,954300.0,103.86
+2025-05-28,May,Q2,2025,West,Neha Singh,Office Solutions Mumbai,Direct,Scanner Elite,Scanners,13,22000,316600.0,353700.0,111.72
+2025-11-16,November,Q4,2025,North,Priya Patel,Office Solutions Mumbai,Distributor,Wide Format Z9,Wide Format,7,85000,576500.0,603100.0,104.61
+2025-07-23,July,Q3,2025,South,Priya Patel,Canon Plus Bangalore,Dealer,Multifunction A4,Multifunction,7,35000,262700.0,302700.0,115.23
+2025-06-07,June,Q2,2025,West,Vijay Kumar,PrintWorld Chennai,Online,Multifunction A4,Multifunction,26,35000,807000.0,1094600.0,135.64
+2025-11-13,November,Q4,2025,West,Kiran Joshi,Canon Plus Bangalore,Dealer,Inkjet Office 500,Printers,31,8500,276700.0,334700.0,120.96
+2025-08-04,August,Q3,2025,South,Amit Sharma,TechMart Delhi,Direct,Printer Pro X1,Printers,17,12500,211800.0,178200.0,84.14
+2025-02-16,February,Q1,2025,East,Rahul Gupta,Canon Plus Bangalore,Direct,Wide Format Z9,Wide Format,2,85000,194100.0,158000.0,81.4
+2025-02-22,February,Q1,2025,East,Deepa Nair,DigiHub Hyderabad,Online,Multifunction A4,Multifunction,50,35000,1745900.0,1714300.0,98.19
+2025-09-11,September,Q3,2025,West,Priya Patel,DigiHub Hyderabad,Distributor,Multifunction A4,Multifunction,35,35000,1047700.0,1419000.0,135.44
+2025-06-28,June,Q2,2025,Central,Vijay Kumar,Office Solutions Mumbai,Distributor,Scanner Elite,Scanners,29,22000,630300.0,459200.0,72.85
+2025-07-05,July,Q3,2025,Central,Deepa Nair,PrintWorld Chennai,Distributor,Inkjet Office 500,Printers,46,8500,378000.0,452900.0,119.81
+2025-08-18,August,Q3,2025,Central,Arjun Mehta,PrintWorld Chennai,Online,Laser Jet 3000,Printers,33,18000,514800.0,509700.0,99.01
+2025-05-11,May,Q2,2025,East,Neha Singh,PrintWorld Chennai,Direct,Printer Pro X1,Printers,2,12500,25700.0,19400.0,75.49
+2025-11-11,November,Q4,2025,West,Neha Singh,TechMart Delhi,Dealer,Scanner Elite,Scanners,7,22000,150700.0,199500.0,132.38
+2025-04-08,April,Q2,2025,North,Vijay Kumar,TechMart Delhi,Online,Wide Format Z9,Wide Format,20,85000,1747200.0,2118600.0,121.26
+2025-03-01,March,Q1,2025,West,Suresh Babu,PrintWorld Chennai,Distributor,Multifunction A4,Multifunction,21,35000,633000.0,804600.0,127.11
+2025-05-01,May,Q2,2025,West,Suresh Babu,DigiHub Hyderabad,Online,Wide Format Z9,Wide Format,31,85000,2704600.0,3403000.0,125.82
+2025-10-04,October,Q4,2025,West,Kiran Joshi,Canon Plus Bangalore,Dealer,Scanner Elite,Scanners,7,22000,162800.0,126800.0,77.89
+2025-10-10,October,Q4,2025,North,Kiran Joshi,Office Solutions Mumbai,Online,Inkjet Office 500,Printers,28,8500,216700.0,257300.0,118.74
+2025-05-02,May,Q2,2025,North,Suresh Babu,TechMart Delhi,Online,Inkjet Office 500,Printers,37,8500,305300.0,262800.0,86.08
+2025-05-03,May,Q2,2025,North,Vijay Kumar,PrintWorld Chennai,Online,Multifunction A4,Multifunction,34,35000,1181200.0,982800.0,83.2
+2025-07-22,July,Q3,2025,Central,Kiran Joshi,DigiHub Hyderabad,Dealer,Multifunction A4,Multifunction,21,35000,668900.0,691900.0,103.44
+2025-01-21,January,Q1,2025,South,Deepa Nair,Canon Plus Bangalore,Distributor,Wide Format Z9,Wide Format,34,85000,3204500.0,3023200.0,94.34
+2025-10-24,October,Q4,2025,South,Sunita Rao,Office Solutions Mumbai,Online,Wide Format Z9,Wide Format,4,85000,342300.0,312300.0,91.24
+2025-07-14,July,Q3,2025,East,Vijay Kumar,Office Solutions Mumbai,Online,Inkjet Office 500,Printers,5,8500,44200.0,51300.0,116.06
+2025-11-20,November,Q4,2025,North,Sunita Rao,Canon Plus Bangalore,Distributor,Laser Jet 3000,Printers,26,18000,431300.0,369700.0,85.72
+2025-08-18,August,Q3,2025,South,Vijay Kumar,Office Solutions Mumbai,Direct,Scanner Elite,Scanners,28,22000,643200.0,444900.0,69.17
+2025-05-26,May,Q2,2025,North,Deepa Nair,TechMart Delhi,Direct,Inkjet Office 500,Printers,43,8500,371100.0,397100.0,107.01
+2025-02-11,February,Q1,2025,West,Neha Singh,TechMart Delhi,Distributor,Multifunction A4,Multifunction,20,35000,777100.0,868200.0,111.72
+2025-12-27,December,Q4,2025,North,Kiran Joshi,PrintWorld Chennai,Online,Laser Jet 3000,Printers,16,18000,254500.0,328500.0,129.08
+2025-08-03,August,Q3,2025,East,Suresh Babu,DigiHub Hyderabad,Dealer,Laser Jet 3000,Printers,39,18000,622500.0,831200.0,133.53
+2025-07-07,July,Q3,2025,West,Arjun Mehta,Canon Plus Bangalore,Direct,Laser Jet 3000,Printers,7,18000,113700.0,161500.0,142.04
+2025-08-18,August,Q3,2025,West,Deepa Nair,Office Solutions Mumbai,Online,Inkjet Office 500,Printers,45,8500,434000.0,340400.0,78.43
+2025-03-12,March,Q1,2025,Central,Amit Sharma,TechMart Delhi,Dealer,Scanner Elite,Scanners,46,22000,971800.0,895500.0,92.15
+2025-05-18,May,Q2,2025,North,Kiran Joshi,Office Solutions Mumbai,Distributor,Scanner Elite,Scanners,20,22000,458300.0,493000.0,107.57
+2025-07-01,July,Q3,2025,South,Vijay Kumar,Office Solutions Mumbai,Dealer,Scanner Elite,Scanners,17,22000,351700.0,471900.0,134.18
+2025-08-21,August,Q3,2025,East,Priya Patel,DigiHub Hyderabad,Distributor,Inkjet Office 500,Printers,50,8500,443400.0,498800.0,112.49
+2025-12-14,December,Q4,2025,North,Rahul Gupta,Canon Plus Bangalore,Direct,Inkjet Office 500,Printers,46,8500,381900.0,489200.0,128.1
+2025-06-14,June,Q2,2025,West,Amit Sharma,TechMart Delhi,Dealer,Multifunction A4,Multifunction,47,35000,1799700.0,1879700.0,104.45
+2025-11-15,November,Q4,2025,East,Neha Singh,PrintWorld Chennai,Direct,Wide Format Z9,Wide Format,9,85000,651000.0,627300.0,96.36
+2025-02-06,February,Q1,2025,South,Suresh Babu,DigiHub Hyderabad,Online,Laser Jet 3000,Printers,34,18000,651200.0,710300.0,109.08
+2025-08-16,August,Q3,2025,East,Vijay Kumar,Office Solutions Mumbai,Direct,Wide Format Z9,Wide Format,9,85000,710100.0,851000.0,119.84
+2025-07-12,July,Q3,2025,Central,Sunita Rao,TechMart Delhi,Direct,Laser Jet 3000,Printers,26,18000,520800.0,592900.0,113.84
+2025-09-21,September,Q3,2025,West,Sunita Rao,Canon Plus Bangalore,Dealer,Multifunction A4,Multifunction,41,35000,1318200.0,1081100.0,82.01
+2025-01-13,January,Q1,2025,East,Rahul Gupta,PrintWorld Chennai,Direct,Multifunction A4,Multifunction,28,35000,1009500.0,773800.0,76.65
+2025-01-23,January,Q1,2025,West,Priya Patel,Office Solutions Mumbai,Dealer,Multifunction A4,Multifunction,28,35000,1060400.0,1231800.0,116.16
+2025-04-28,April,Q2,2025,West,Sunita Rao,PrintWorld Chennai,Dealer,Inkjet Office 500,Printers,19,8500,173400.0,150100.0,86.56
+2025-05-24,May,Q2,2025,South,Amit Sharma,Canon Plus Bangalore,Online,Wide Format Z9,Wide Format,13,85000,1077900.0,1044400.0,96.89
+2025-04-20,April,Q2,2025,West,Priya Patel,TechMart Delhi,Distributor,Scanner Elite,Scanners,16,22000,338200.0,390900.0,115.58
+2025-03-28,March,Q1,2025,West,Arjun Mehta,PrintWorld Chennai,Online,Inkjet Office 500,Printers,45,8500,370700.0,316500.0,85.38
+2025-02-04,February,Q1,2025,West,Neha Singh,PrintWorld Chennai,Direct,Multifunction A4,Multifunction,4,35000,121200.0,176200.0,145.38
+2025-01-09,January,Q1,2025,East,Rahul Gupta,PrintWorld Chennai,Direct,Multifunction A4,Multifunction,40,35000,1350000.0,1801100.0,133.41
+2025-10-06,October,Q4,2025,West,Rahul Gupta,TechMart Delhi,Online,Inkjet Office 500,Printers,11,8500,93600.0,117600.0,125.64
+2025-12-17,December,Q4,2025,South,Deepa Nair,Canon Plus Bangalore,Online,Scanner Elite,Scanners,10,22000,204200.0,195400.0,95.69
+2025-07-10,July,Q3,2025,Central,Neha Singh,DigiHub Hyderabad,Dealer,Inkjet Office 500,Printers,40,8500,373600.0,427100.0,114.32
+2025-06-24,June,Q2,2025,West,Amit Sharma,Office Solutions Mumbai,Dealer,Scanner Elite,Scanners,49,22000,1223500.0,1114000.0,91.05
+2025-01-08,January,Q1,2025,West,Arjun Mehta,TechMart Delhi,Distributor,Laser Jet 3000,Printers,3,18000,53500.0,43100.0,80.56
+2025-01-15,January,Q1,2025,North,Rahul Gupta,TechMart Delhi,Online,Inkjet Office 500,Printers,46,8500,398100.0,381100.0,95.73
+2025-02-07,February,Q1,2025,East,Suresh Babu,PrintWorld Chennai,Dealer,Inkjet Office 500,Printers,12,8500,112200.0,117300.0,104.55
+2025-10-01,October,Q4,2025,North,Sunita Rao,DigiHub Hyderabad,Direct,Multifunction A4,Multifunction,50,35000,1787200.0,1662200.0,93.01
+2025-06-01,June,Q2,2025,East,Suresh Babu,TechMart Delhi,Online,Inkjet Office 500,Printers,44,8500,428000.0,289200.0,67.57
+2025-03-01,March,Q1,2025,West,Vijay Kumar,PrintWorld Chennai,Direct,Printer Pro X1,Printers,30,12500,412200.0,410900.0,99.68
+2025-06-02,June,Q2,2025,Central,Rahul Gupta,Office Solutions Mumbai,Direct,Wide Format Z9,Wide Format,40,85000,3859900.0,3042800.0,78.83
+2025-11-10,November,Q4,2025,Central,Arjun Mehta,TechMart Delhi,Distributor,Inkjet Office 500,Printers,4,8500,36500.0,35000.0,95.89
+2025-05-06,May,Q2,2025,South,Rahul Gupta,DigiHub Hyderabad,Distributor,Laser Jet 3000,Printers,50,18000,998700.0,678200.0,67.91
+2025-05-21,May,Q2,2025,West,Vijay Kumar,PrintWorld Chennai,Dealer,Wide Format Z9,Wide Format,10,85000,753300.0,845300.0,112.21
+2025-06-22,June,Q2,2025,West,Deepa Nair,Canon Plus Bangalore,Distributor,Printer Pro X1,Printers,24,12500,301100.0,298100.0,99.0
+2025-02-25,February,Q1,2025,West,Priya Patel,TechMart Delhi,Online,Scanner Elite,Scanners,24,22000,546000.0,507100.0,92.88
+2025-08-22,August,Q3,2025,West,Kiran Joshi,PrintWorld Chennai,Direct,Laser Jet 3000,Printers,42,18000,798200.0,599500.0,75.11
+2025-05-15,May,Q2,2025,South,Rahul Gupta,Canon Plus Bangalore,Dealer,Scanner Elite,Scanners,6,22000,148100.0,130200.0,87.91
+2025-09-14,September,Q3,2025,North,Kiran Joshi,TechMart Delhi,Distributor,Inkjet Office 500,Printers,37,8500,271800.0,234600.0,86.31
+2025-07-04,July,Q3,2025,East,Vijay Kumar,PrintWorld Chennai,Direct,Scanner Elite,Scanners,43,22000,1008500.0,1123600.0,111.41
+2025-09-01,September,Q3,2025,South,Arjun Mehta,TechMart Delhi,Direct,Printer Pro X1,Printers,48,12500,629100.0,484600.0,77.03
+2025-07-23,July,Q3,2025,West,Suresh Babu,Canon Plus Bangalore,Online,Inkjet Office 500,Printers,21,8500,183200.0,173700.0,94.81
+2025-03-07,March,Q1,2025,North,Arjun Mehta,PrintWorld Chennai,Direct,Laser Jet 3000,Printers,6,18000,116000.0,114700.0,98.88
+2025-01-13,January,Q1,2025,West,Suresh Babu,DigiHub Hyderabad,Online,Printer Pro X1,Printers,1,12500,11300.0,12300.0,108.85
+2025-10-27,October,Q4,2025,West,Vijay Kumar,TechMart Delhi,Dealer,Multifunction A4,Multifunction,24,35000,888000.0,1073400.0,120.88
+2025-03-01,March,Q1,2025,South,Amit Sharma,Office Solutions Mumbai,Distributor,Laser Jet 3000,Printers,8,18000,157600.0,160900.0,102.09
+2025-11-05,November,Q4,2025,Central,Sunita Rao,TechMart Delhi,Online,Wide Format Z9,Wide Format,16,85000,1333800.0,1462900.0,109.68
+2025-08-05,August,Q3,2025,South,Deepa Nair,DigiHub Hyderabad,Distributor,Scanner Elite,Scanners,28,22000,527600.0,492600.0,93.37
+2025-01-28,January,Q1,2025,West,Amit Sharma,Canon Plus Bangalore,Direct,Scanner Elite,Scanners,38,22000,771500.0,733100.0,95.02
+2025-02-21,February,Q1,2025,Central,Suresh Babu,PrintWorld Chennai,Online,Wide Format Z9,Wide Format,28,85000,2722400.0,2877800.0,105.71
+2025-01-16,January,Q1,2025,West,Sunita Rao,TechMart Delhi,Direct,Scanner Elite,Scanners,32,22000,706800.0,798900.0,113.03
+2025-07-19,July,Q3,2025,West,Deepa Nair,TechMart Delhi,Distributor,Inkjet Office 500,Printers,36,8500,265900.0,378100.0,142.2
+2025-10-21,October,Q4,2025,East,Sunita Rao,DigiHub Hyderabad,Online,Inkjet Office 500,Printers,29,8500,261100.0,175600.0,67.25
+2025-08-08,August,Q3,2025,Central,Deepa Nair,Office Solutions Mumbai,Online,Multifunction A4,Multifunction,15,35000,538800.0,583300.0,108.26
+2025-12-23,December,Q4,2025,East,Deepa Nair,Office Solutions Mumbai,Dealer,Scanner Elite,Scanners,27,22000,653400.0,655700.0,100.35
+2025-05-23,May,Q2,2025,South,Rahul Gupta,PrintWorld Chennai,Distributor,Wide Format Z9,Wide Format,6,85000,535600.0,396500.0,74.03
+2025-02-26,February,Q1,2025,North,Amit Sharma,Canon Plus Bangalore,Online,Scanner Elite,Scanners,32,22000,662500.0,581300.0,87.74
+2025-06-22,June,Q2,2025,North,Priya Patel,Canon Plus Bangalore,Distributor,Laser Jet 3000,Printers,12,18000,237300.0,267100.0,112.56
+2025-02-20,February,Q1,2025,East,Neha Singh,TechMart Delhi,Online,Laser Jet 3000,Printers,8,18000,146700.0,142800.0,97.34
+2025-03-28,March,Q1,2025,North,Deepa Nair,DigiHub Hyderabad,Direct,Wide Format Z9,Wide Format,33,85000,2892800.0,2138800.0,73.94
+2025-02-26,February,Q1,2025,Central,Amit Sharma,PrintWorld Chennai,Direct,Multifunction A4,Multifunction,40,35000,1518500.0,1775800.0,116.94
+2025-03-21,March,Q1,2025,East,Deepa Nair,PrintWorld Chennai,Distributor,Printer Pro X1,Printers,14,12500,196600.0,139000.0,70.7
+2025-12-28,December,Q4,2025,South,Priya Patel,Office Solutions Mumbai,Distributor,Printer Pro X1,Printers,10,12500,130500.0,112600.0,86.28
+2025-07-25,July,Q3,2025,East,Kiran Joshi,Office Solutions Mumbai,Direct,Printer Pro X1,Printers,16,12500,220100.0,196800.0,89.41
+2025-05-12,May,Q2,2025,South,Rahul Gupta,PrintWorld Chennai,Distributor,Wide Format Z9,Wide Format,49,85000,4058800.0,4488500.0,110.59
+2025-04-05,April,Q2,2025,Central,Neha Singh,TechMart Delhi,Distributor,Scanner Elite,Scanners,27,22000,668500.0,735900.0,110.08
+2025-03-25,March,Q1,2025,North,Neha Singh,Canon Plus Bangalore,Distributor,Printer Pro X1,Printers,46,12500,627800.0,728100.0,115.98
+2025-03-14,March,Q1,2025,South,Suresh Babu,TechMart Delhi,Online,Printer Pro X1,Printers,26,12500,350300.0,356200.0,101.68
+2025-07-13,July,Q3,2025,East,Neha Singh,TechMart Delhi,Online,Wide Format Z9,Wide Format,45,85000,3886500.0,3375900.0,86.86
+2025-09-20,September,Q3,2025,Central,Suresh Babu,PrintWorld Chennai,Distributor,Laser Jet 3000,Printers,45,18000,786700.0,879900.0,111.85
+2025-12-12,December,Q4,2025,North,Amit Sharma,PrintWorld Chennai,Online,Wide Format Z9,Wide Format,26,85000,2392600.0,2715200.0,113.48
+2025-07-24,July,Q3,2025,Central,Vijay Kumar,Office Solutions Mumbai,Direct,Wide Format Z9,Wide Format,48,85000,4545000.0,4130100.0,90.87
+2025-09-18,September,Q3,2025,North,Amit Sharma,PrintWorld Chennai,Online,Inkjet Office 500,Printers,34,8500,275200.0,312500.0,113.55
+2025-04-27,April,Q2,2025,North,Neha Singh,Canon Plus Bangalore,Online,Inkjet Office 500,Printers,47,8500,390200.0,400800.0,102.72
+2025-02-02,February,Q1,2025,North,Deepa Nair,Canon Plus Bangalore,Dealer,Wide Format Z9,Wide Format,8,85000,669500.0,709600.0,105.99
+2025-12-19,December,Q4,2025,Central,Suresh Babu,Office Solutions Mumbai,Online,Multifunction A4,Multifunction,46,35000,1800500.0,1733400.0,96.27
+2025-05-10,May,Q2,2025,West,Kiran Joshi,Office Solutions Mumbai,Direct,Wide Format Z9,Wide Format,46,85000,3995400.0,3065400.0,76.72
+2025-06-17,June,Q2,2025,North,Rahul Gupta,DigiHub Hyderabad,Distributor,Multifunction A4,Multifunction,13,35000,499100.0,417100.0,83.57
+2025-02-03,February,Q1,2025,West,Priya Patel,Canon Plus Bangalore,Distributor,Printer Pro X1,Printers,28,12500,390800.0,345000.0,88.28
+2025-10-18,October,Q4,2025,West,Arjun Mehta,DigiHub Hyderabad,Distributor,Multifunction A4,Multifunction,50,35000,1694800.0,1501900.0,88.62
+2025-12-14,December,Q4,2025,West,Rahul Gupta,PrintWorld Chennai,Direct,Laser Jet 3000,Printers,10,18000,180300.0,178400.0,98.95
+2025-12-07,December,Q4,2025,Central,Neha Singh,TechMart Delhi,Distributor,Scanner Elite,Scanners,31,22000,586400.0,541600.0,92.36
+2025-02-04,February,Q1,2025,North,Neha Singh,Canon Plus Bangalore,Online,Inkjet Office 500,Printers,37,8500,294600.0,318800.0,108.21
+2025-05-10,May,Q2,2025,Central,Arjun Mehta,TechMart Delhi,Online,Scanner Elite,Scanners,2,22000,47800.0,34600.0,72.38
+2025-05-07,May,Q2,2025,East,Priya Patel,TechMart Delhi,Distributor,Laser Jet 3000,Printers,48,18000,861100.0,668200.0,77.6
+2025-08-19,August,Q3,2025,West,Deepa Nair,PrintWorld Chennai,Dealer,Inkjet Office 500,Printers,37,8500,310000.0,283900.0,91.58
+2025-03-17,March,Q1,2025,South,Neha Singh,TechMart Delhi,Distributor,Wide Format Z9,Wide Format,30,85000,2750200.0,2805800.0,102.02
+2025-07-08,July,Q3,2025,West,Vijay Kumar,TechMart Delhi,Dealer,Scanner Elite,Scanners,22,22000,490000.0,617000.0,125.92
+2025-12-01,December,Q4,2025,Central,Priya Patel,PrintWorld Chennai,Direct,Multifunction A4,Multifunction,41,35000,1562500.0,1613600.0,103.27
+2025-04-20,April,Q2,2025,Central,Sunita Rao,DigiHub Hyderabad,Direct,Multifunction A4,Multifunction,37,35000,1395100.0,1650300.0,118.29
+2025-02-22,February,Q1,2025,South,Sunita Rao,PrintWorld Chennai,Distributor,Multifunction A4,Multifunction,12,35000,478300.0,363300.0,75.96
+2025-02-26,February,Q1,2025,West,Amit Sharma,Canon Plus Bangalore,Distributor,Multifunction A4,Multifunction,39,35000,1291500.0,1437800.0,111.33
